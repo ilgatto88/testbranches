@@ -14,3 +14,7 @@ def func4(inp = None):
 
 def func5(inp = None):
 	return [i+3 for i in inp]
+
+def func6(inp = None):
+	# added new feature
+	return None
