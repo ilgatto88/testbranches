@@ -8,3 +8,4 @@ def func2(inp = None):
 
 def func3(inp = None):
 	return [i*2 for i in inp]
+
