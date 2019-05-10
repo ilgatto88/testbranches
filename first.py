@@ -26,3 +26,9 @@ print('change 03')
 print('day 2, change 01')
 
 print('day 2, change 02')
+
+# develop merged to master
+
+# new developments..
+
+print('day 3, change 01')
