@@ -18,3 +18,5 @@ def func5(inp = None):
 def func6(inp = None):
 	# added new feature
 	return None
+	
+print('change 01')
