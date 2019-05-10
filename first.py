@@ -32,3 +32,6 @@ print('day 2, change 02')
 # new developments..
 
 print('day 3, change 01')
+
+#further developments, while release 1.2 branched
+print('day 4, change 01')
