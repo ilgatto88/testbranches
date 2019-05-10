@@ -20,3 +20,5 @@ def func6(inp = None):
 	return None
 	
 print('change 01')
+
+print('change 02')
