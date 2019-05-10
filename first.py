@@ -15,7 +15,7 @@ def func3(inp = None):
 
 def func6(inp = None):
 	# added new feature
-	return None
+	return 3 # bugfix for release 1.2 @JT
 	
 print('change 01')
 
